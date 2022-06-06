@@ -1,0 +1,50 @@
+OpenWeather API
+https://home.openweathermap.org/api_keys
+
+Current weather data
+https://openweathermap.org/current
+
+One Call API 1.0
+https://openweathermap.org/api/one-call-api
+
+Latitude and Longitude Finder
+https://www.latlong.net/
+
+Online JSON viewer
+http://jsonviewer.stack.hu/
+
+OWM Weather Condition Codes
+https://openweathermap.org/weather-conditions#Weather-Condition-Codes-2
+
+Find a Place Where It's Raining
+https://www.ventusky.com/
+
+Python slice() Function
+https://www.w3schools.com/python/ref_func_slice.asp
+
+Understanding slicing
+https://stackoverflow.com/questions/509211/understanding-slicing
+
+Twilio
+https://www.twilio.com/
+
+Programmable SMS Python Quickstart 
+https://www.twilio.com/docs/sms/quickstart/python
+
+Environment variable
+https://en.wikipedia.org/wiki/Environment_variable
+
+A collective list of APIs
+https://apilist.fun/
+
+
+
+
+
+
+
+
+
+
+
+
